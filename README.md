@@ -40,7 +40,8 @@ frontend/
 - **TypeScript** - Type-safe JavaScript
 - **Tailwind CSS** - Utility-first CSS framework
 - **React** - UI library
-
+- Boostrap
+  
 ## Menjalankan Aplikasi
 
 ### Mode Development
@@ -107,6 +108,10 @@ Aplikasi menggunakan Tailwind CSS dengan custom styles:
 - Card design dengan shadow
 - Responsive layout
 - Loading spinner animation
+
+## Untuk Login
+Username : Admin
+Password : Al123456!
 
 ## Deploy
 
